@@ -254,6 +254,8 @@
   matchtrackingbranch = true
   warndetachedcommit = true
   tabsize = 2
+  fontui = -family .AppleSystemUIFont -size 18 -weight normal -slant roman -underline 0 -overstrike 0
+  fontdiff = -family Menlo -size 14 -weight normal -slant roman -underline 0 -overstrike 0
 [help]
   autocorrect = 1
 [http]
